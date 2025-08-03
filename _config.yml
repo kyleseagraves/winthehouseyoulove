@@ -1,5 +1,15 @@
+# Site settings
 title: My Home-buying Notes
-baseurl: ""
-url: "https://YOUR_USERNAME.github.io"
+description: “Markdown from Notion, styled with custom CSS”
+baseurl: ""           # leave blank for root
+url: "https://YOUR_GITHUB_USERNAME.github.io"
+
+# Use Jekyll’s built-in minima theme (you’ll override its CSS)
 theme: minima
+
+# Markdown engine
 markdown: kramdown
+
+# (Optional) live-reload plugin if you preview locally
+plugins:
+  - jekyll-livereload
