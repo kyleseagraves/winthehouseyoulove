@@ -5,35 +5,6 @@ title: Welcome
 
 # Hello, homebuyers!
 
-- 📚 Storybrand
-    
-    
-    | **Framework Element** | **A CHARACTER** |
-    | --- | --- |
-    | What do they want? 🎯 | painless mortgage |
-    |  | **HAS A PROBLEM** ⚠️ |
-    | Villain 👹 | the lender "behind the curtain" |
-    | External problem 🔍 | "just give me an idea" "what's the likelihood" |
-    | Internal problem 😰 | what if I don't get approved? |
-    | Philosophical problem 💭 | you shouldn't feel overwhelmed getting a mortgage |
-    |  | **AND MEETS A GUIDE** 🤝 |
-    | Empathy ❤️ | we know how intimidating it can feel |
-    | Authority ⭐ | we'll show you the steps you need to take and all your numbers |
-    |  | **WHO GIVES THEM A PLAN** 📋 |
-    | Plan 📝 | 1. collect your docs (so we can see the full picture)
-    2. apply
-    3. chat with us |
-    |  | **AND CALLS THEM TO ACTION** 📢 |
-    | Transitional CTA 🌊 |  |
-    | Direct CTA ⚡ |  |
-    |  | **THAT ENDS IN A SUCCESS** 🎉 |
-    | Positive changes 📈 |  |
-    |  | **THAT HELPS THEM AVOID FAILURE** 🚫 |
-    | Consequences ⚠️ | shaky pre-approval, potential for the deal to fall through |
-    |  | **TRANSFORMING THEM** 🦋 |
-    | From 😟 |  |
-    | To 😊 | ~~confident, knows your numbers~~ |
-
 ---
 
 ## 😡 Current System
