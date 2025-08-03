@@ -2,7 +2,7 @@
 title: My Home-buying Notes
 description: “Markdown from Notion, styled with custom CSS”
 baseurl: ""           # leave blank for root
-url: "https://YOUR_GITHUB_USERNAME.github.io"
+url: "kyleseagraves.github.io"
 
 # Use Jekyll’s built-in minima theme (you’ll override its CSS)
 theme: minima
